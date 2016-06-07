@@ -9,19 +9,19 @@ Python computer programming language in Nigeria.
 
 ## 3. OBJECTIVES
 
-To further these aims the committee shall fulfil by:
+To further these aims, the committee shall fulfil by:
 
   1. To promote the use of the Python programming language across industries, communities, schools and learning centres regardless of age, ethnic region, gender, ability and recognizing the value of diversity. 
-  2. To involve IT professionals who use the Python programming language with the local community to impart knowledge 
-  3. To facilitate meetups, seminars and conferences that bring about industry professional to learn, share, collaborate and partner together not only on projects but to achieve set learning outcomes 
-  4. To ensure global collaboration between local community and the widely international Python community 
+  2. To involve IT professionals who use the Python programming language with the local community to impart knowledge. 
+  3. To facilitate meetups, seminars and conferences that bring together industry professional to learn, share, collaborate and partner not only on projects but to achieve set learning outcomes. 
+  4. To ensure global collaboration between the local community and the widely international Python community. 
   5. To raise funds and receive contributions where appropriate to finance the objectives of community projects. 
-  6. To educate, encourage, support and if necessary help facilitate members of the community projects. 
+  6. To educate, encourage, support and if necessary help facilitate projects of members of the community. 
   7. To monitor all community projects to ensure a safe and friendly environment and conformity to the code of conduct as stipulated by the Python Software foundation. 
-  8. To Organize Python meetups, training courses, events, workshops, conferences at suitable venues in Nigeria. 
+  8. To organize Python meetups, training courses, events, workshops, conferences at suitable venues across Nigeria. 
   9. To collaborate with groups with similar interests to exchange information and offer advice. 
   10. To take any action that is lawful, which would help the community fulfil its aims. 
-  11. The society shall not pursue any aim not set out in the above clauses unless it be provided by it's members with an amenity for which there is a material demand among the membership 
+  11. The society shall not pursue any aim not set out in the above clauses unless it be provided by it's members with an amenity for which there is a material demand among the membership. 
 
 ## 4. MEMBERSHIP
 
@@ -55,7 +55,7 @@ Committee shall be composed until the initial AGM is held.*
 
   1. Eligibility in the case of all Officers is derived from all Members of the Society. 
   2. The Officers of the Society shall be elected by the Committee from its Members. 
-  3. Honorary Members shall have the same privileges as Members excepting the privilege of voting in meetings or voting in elections. 
+  3. Honorary Members shall have the same privileges as Members except the privilege of voting in meetings or voting in elections. 
   4. Only fully paid-up Members of the Society can vote at elections and at General Meetings. 
   5. Candidates for election to the Committee must be nominated and seconded by fully paid up Members of the Society in writing and the Secretary must receive such nominations at the published address of the Society at least seven days before the AGM. All elections shall be by show of hands. 
   6. No one shall be admitted to Membership of the Society less than twenty-four hours before a General Meeting. 
