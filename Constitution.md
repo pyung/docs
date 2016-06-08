@@ -118,7 +118,7 @@ Signed by Treasurer ... ... ... ... ... ... ... ... ... ... ... ... Date ... ...
 
 **Website:**
 
-The Society shall provide and maintain a website at www.pynigeria.org.
+The Society shall provide and maintain a website at www.pythonnigeria.org
 
 **Communications:**
 
